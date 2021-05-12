@@ -7,7 +7,7 @@ Este repositório armazena os códigos e scripts fornecidos durante a aula ao vi
 Basta clonar o repositório
 
 ```
-git@github.com:tryber/sd-013-a-live-lectures.git
+git@github.com:tryber/sd-13a-live-lectures.git
 ```
 
 Em seguida acessar a branch do Pull Request da aula seguindo o padrão de nomenclatura das branchs (nome-branch-aula)
