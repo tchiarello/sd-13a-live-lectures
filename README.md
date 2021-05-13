@@ -4,7 +4,7 @@ Este repositório armazena os códigos e scripts fornecidos durante a aula ao vi
 
 ## Começando
 
-Basta clonar o repositório
+Basta clonar o repositório;
 
 ```
 git@github.com:tryber/sd-13a-live-lectures.git
