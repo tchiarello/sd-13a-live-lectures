@@ -2,7 +2,7 @@
 
 Este repositório armazena os códigos e scripts fornecidos durante a aula ao vivo pelos especialistas da Trybe.
 
-## Començando
+## Começando
 
 Basta clonar o repositório
 
